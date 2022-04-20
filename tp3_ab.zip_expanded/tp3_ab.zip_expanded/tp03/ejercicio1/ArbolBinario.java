@@ -150,7 +150,7 @@ public class ArbolBinario<T> {
 }
 	
 	
-	//NO TERMINADO.
+	
     public ArbolBinario<T> espejo() {
 		if (this.esVacio()) {
 			return null;
