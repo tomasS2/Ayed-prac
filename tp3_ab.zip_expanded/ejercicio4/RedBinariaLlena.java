@@ -15,7 +15,7 @@ public class RedBinariaLlena {
 	
 	public int retardoReenvio(ArbolBinario<Integer> arbol) {
 		Integer cont = 0;
-		calcRetardo (cont,arbol);
+		calcRetardo (cont,this.arbol);
 		return max;
 	}
 	
